@@ -1,2 +1,0 @@
-# hellowordpython
-my first program
